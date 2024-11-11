@@ -1,0 +1,234 @@
+.class1{
+    background-color:darkblue;
+     text-align: center;
+     color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 100px;
+    margin-left: 230px;
+    margin-right: -8px;
+    padding-top: 50px;
+    padding-bottom: 250px;
+    padding-left: 80px;
+
+ }
+ 
+.class1 h3{
+  color: darkorange;
+}
+    
+    .para1{
+      text-align: initial;
+    }
+   
+    
+    
+    .Nav{
+        background-color:crimson;
+        margin-right: -8px;
+        margin-top: -100px;
+        
+        list-style-type: none;
+        overflow: hidden;
+        height: 100px;
+          display: flex;
+            position: fixed;
+            align-items: center;
+            justify-content: space-between;
+            
+           
+    }
+    
+    .Nav li{
+      border-color: firebrick;
+      padding: 29px;
+      
+      
+    }
+    
+    li a{
+        text-decoration: none;
+        color: ghostwhite;
+        font-size:medium;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    
+      li a:hover {
+        background-color: #555;
+        color: cyan;
+      }
+      
+    
+  
+   .header{
+    position:fixed;
+    
+   }
+  .Nav2{
+    background-color:aquamarine;
+      width: 215px;
+    height: 100%;
+    padding: 9px;
+ margin-left: -5px;
+    margin-top: -5px;
+    list-style-type: none;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    position:fixed;
+    
+    justify-content: space-around;
+   
+}
+.Nav2 li{
+  display: block;
+ 
+ 
+}
+
+.Nav2 a{
+       display: block;
+         color:black;
+         font-size: large;
+         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         text-align:left;
+          
+         text-decoration: none;
+         
+}
+  
+    .hori{
+        display: inline-block;
+    }
+
+    .new{
+        text-decoration: double;
+     padding: 15px 1px;
+        color: blue;
+        background-color: azure;
+        font-size: 15px;
+        margin-right: -4px;
+    }
+
+
+.button1{
+    background-color: white;
+    color:black;
+    height: 30px;
+   
+}
+.container1{
+  display: flex;
+  background-color: DodgerBlue;
+  height: 100vh;
+  margin-top: -22px;
+  margin-right: -8px;
+ margin-left: 230px;
+  align-items: center;
+	justify-content: center;
+	flex-direction: row;
+  }
+
+  
+
+.inner{
+  background-color:white;
+  width: 300px;
+  margin: 20px;
+  height: 300px;
+  text-align: center;
+  color: darkblue;
+  font-size: 20px;
+  align-items: center;
+  justify-content: space-between;
+  
+  
+}
+
+.inner h2{
+  color: black;
+}
+
+
+    
+    .class3{
+        background-color:gold;
+        margin-right: -8px;
+        margin-top: -22px;
+        height: 100vh;
+        margin-left: 230px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    }
+    .class3 img{
+      margin-left: 200px;
+      margin-top: 40px;
+    }
+.class3{
+  padding: 20px;
+}
+.class3 h1 {
+  text-align: center;
+ 
+
+}
+.class3 p {
+  text-align: center;
+
+}
+
+
+    
+    .class4{
+        background-color: purple;
+        color: ghostwhite;
+       margin-top: -22px;
+        height: 100vh;
+        margin-left: 230px;
+       font-family: Arial, Helvetica, sans-serif;
+       margin-right: -8px;
+       text-align: start;
+    }
+    .class4 img{
+      float: right;
+       margin-right: 450px;
+    }
+    .class4 h1{
+     padding: 10px;
+     text-align: center;
+     color: gold;
+    }
+    .class4 h3{
+      text-align: center;
+      color:aquamarine;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .button3{
+      text-align: center;
+      padding: 10px;
+      color: black;
+      margin-left: 500px;
+      background-color: darkturquoise;
+      
+    }
+    .class4 h2{
+      text-align: center;
+    }
+    .class5{
+        background-color: lemonchiffon;
+        margin-right: -8px;
+        margin-left: 230px;
+        height: 100vh;
+       font-family: Arial, Helvetica, sans-serif;
+       padding: 100px;
+       text-align: start;
+    }
+    .class5 ul{
+      background-color: black;
+    }
+
+    .class5 li{
+
+border-color:black;
+      padding: 29px;
+    }
